@@ -44,7 +44,7 @@ disqus-shortname: Seonghun Son
 # Name of the Author
 author-name: Seonghun Son
 # URL for the Image of the Author
-author-image: 'https://github.com/hunie-son/hunie-son.github.io/blob/main/assets/images/VIsa_Photo.jpg'
+author-image: '/assets/images/VIsa_Photo.png'
 # 60 Words About the Author
 author-about: I graduated from Yeungnam University majored in Information and Communication Engineering. I was a member of the Functional Safety Team(SW part) at SL Corporation. And also Assistant Manager at ICT Infrastructure Strategy and Planning Team, National Information Society Agency(NIA). Currently, I am doing a Ph.D. course at Iowa State University.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
