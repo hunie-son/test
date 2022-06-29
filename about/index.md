@@ -16,28 +16,28 @@ His research interest is in Computer Architecture Security and Deep Learning.
 He is currently working on Microarchitectural attack detection using Deep Learning techniques, especially mitigations of side-channel attacks. 
 
 # Education
-* Jan.2021 - **Present**: &nbsp; Ph.D Student in Electrical and Computer Engineering, **Iowa State University**
+* Jan.&nbsp;2021 - **Present**: &nbsp;&nbsp; Ph.D Student in Electrical and Computer Engineering, **Iowa State University**
     * <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. 
 
 
-* Mar.2012 - Feb.2019:   B.S in Information and Communication Engineering, **Yeungnam University**
+* Mar.&nbsp;2012 - Feb.&nbsp;2019:&nbsp;&nbsp;B.S in Information and Communication Engineering, **Yeungnam University**
     * Awarded Academic Scholarships for three out of eight semesters 
 
 # Experiences
-* Jan.2018 - Feb.2018:   Outbound Pilot Program, **Yeungnam University**
+* Jan.&nbsp;2018 - Feb.&nbsp;2018:&nbsp;&nbsp;Outbound Pilot Program, **Yeungnam University**
     * *Visiting Google, Facebook, Instagram, UCB, Standford, UCLA and UCI*
 
 
-* May.2013 - May.2015:   Military Service, **Republic of Korea Air Fore** (11th Fighter Wing)
+* May.&nbsp;2013 - May.&nbsp;2015:&nbsp;&nbsp;Military Service, **Republic of Korea Air Fore** (11th Fighter Wing)
     * *Electic power operation in Air Force Tower*
 
 
-* Jan.2008 - Dec.2008:   Awatapu College
+* Jan.&nbsp;2008 - Dec.&nbsp;2008:&nbsp;&nbsp;Awatapu College
     * *Palmerston North, New Zealand*
     * *NCEA Level 1 Certified*
 
  
-* Mar.2000 - Dec.2000:   Glen Ackers Elementary School
+* Mar.&nbsp;2000 - Dec.&nbsp;2000:&nbsp;&nbsp;Glen Ackers Elementary School
     * *Indiana State, USA* 
     
 ## Features
