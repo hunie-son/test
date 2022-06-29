@@ -16,10 +16,10 @@ His research interest is in Computer Architecture Security and Deep Learning.
 He is currently working on Microarchitectural attack detection using Deep Learning techniques, especially mitigations of side-channel attacks. 
 
 ## Education
-* Jan.2020 - **Present**    **Ph.D Student in Electrical and Computer Engineering, Iowa State University**
+* Jan.2020 - Present:    **Ph.D Student in Electrical and Computer Engineering, Iowa State University**
     * <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. 
 
-* Mar.2012 - Feb.2019       **B.S in Information and Communication Engineering,Yeungnam University**
+* Mar.2012 - Feb.2019:   **B.S in Information and Communication Engineering,Yeungnam University**
     * Awarded Academic Scholarships for three out of eight semesters 
 
 ## Features
