@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Seonghun Son
+title: Seonghun Son
 tags: [about, Jekyll, theme, seonghun]
 date: 2021-06-29
 comments: false
