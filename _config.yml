@@ -40,17 +40,17 @@ disqus_shortname:   hunie_son
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         https://github.com/hunie-son
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           https://www.linkedin.com/in/seonghun-son-665924152/
 #xing:              username
-instagram:          username
+instagram:          https://www.instagram.com/hunie_son/
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
