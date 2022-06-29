@@ -11,11 +11,8 @@ comments: false
 ## About Me
 **Seonghun Son** is currently a second-year Ph.D. student in Computer Engineering at Iowa State University <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. 
 He completed his B.S degree in Information and Communication Engineering from Yeungnam University, South Korea. 
-
 Before joining Iowa State, he worked as an Assistant Manager at ICT Infrastructure Strategy and Planning Team in National Information Society Agency (NIA) in South Korea. 
-
 His research interest is in Computer Architecture Security and Deep Learning. 
-
 He is currently working on Microarchitectural attack detection using Deep Learning techniques, especially mitigations of side-channel attacks. 
 
 ## Education
