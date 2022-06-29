@@ -6,7 +6,7 @@ date: 2021-06-29
 comments: false
 ---
     
-<center><a href="http://hunie-son.github.io"><b>Seonghun</b></a> Postive, Creative and Sociable Researcher.</center>
+<center>*ɪғ ʏᴏᴜ ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜ ʟᴏᴠᴇ, ʏᴏᴜ'ʟʟ ɴᴇᴠᴇʀ ᴡᴏʀᴋ ᴀ ᴅᴀʏ ɪɴ ʏᴏᴜʀ ʟɪғᴇ.*</center>
 
 ## About Me
 **Seonghun Son** is currently a second-year Ph.D. student in Computer Engineering at Iowa State University <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. 
