@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: About Seonghun Son
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://hunie-son.github.io/hunie"><b>Moon</b></a> Postice, Creative and Sociable Researcher.</center>
 
 ## Features
 * Minimal, you can focus on your content
