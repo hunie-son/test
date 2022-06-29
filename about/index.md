@@ -38,7 +38,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
  
 
 
-# Extra Experiences
+# Extra Experience
 * Jan. 2018 - Feb. 2018: &nbsp; Outbound Pilot Program, Yeungnam University
     * *Visiting Google, Facebook, Instagram, UCB, Standford, UCLA and UCI* <br/> <br/>
 
