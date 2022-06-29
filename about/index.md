@@ -19,6 +19,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 * Jan.2021 - **Present**:    Ph.D Student in Electrical and Computer Engineering, **Iowa State University**
     * <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. 
 
+
 * Mar.2012 - Feb.2019:   B.S in Information and Communication Engineering, **Yeungnam University**
     * Awarded Academic Scholarships for three out of eight semesters 
 
@@ -26,13 +27,16 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 * Jan.2018 - Feb.2018:   Outbound Pilot Program, **Yeungnam University**
     * *Visiting Google, Facebook, Instagram, UCB, Standford, UCLA and UCI*
 
+
 * May.2013 - May.2015:   Military Service, **Republic of Korea Air Fore** (11th Fighter Wing)
     * *Electic power operation in Air Force Tower*
 
+
 * Jan.2008 - Dec.2008:   Awatapu College
     * *Palmerston North, New Zealand*
-    * *NCEA Level 1 Certified*  
-    
+    * *NCEA Level 1 Certified*
+
+ 
 * Mar.2000 - Dec.2000:   Glen Ackers Elementary School
     * *Indiana State, USA* 
     
