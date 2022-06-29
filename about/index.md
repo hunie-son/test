@@ -23,22 +23,33 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 * Mar. 2012 - Feb. &nbsp; 2019: &nbsp; B.S in Information and Communication Engineering, **Yeungnam University**
     * *Awarded Academic Scholarships for three out of eight semesters* <br/> <br/>
 
-# Experiences
+
+# Work Experience
+* Sep. 2020 - Dec. 2020: &nbsp; National Information Soceity Agency, South Korea
+    * *ICT Infrastructure Strategy and Planning Team* <br/> <br/>
+
+
+* Dec. 2018 - Oct. 2019: &nbsp; SL Corporation, South Korea
+    * *Functional Safety Team, Electronics R&D Center* <br/> <br/>
+
+
+* Jan. 2016 - Feb. 2019: &nbsp; Data Communcation Lab, Yeungnam University
+    * *Undergraduate research student (Advisor : Prof. Jin-Ghoo, Choi)* <br/> <br/>
+ 
+
+
+# Extra Experiences
 * Jan. 2018 - Feb. 2018: &nbsp; Outbound Pilot Program, Yeungnam University
     * *Visiting Google, Facebook, Instagram, UCB, Standford, UCLA and UCI* <br/> <br/>
-
 
 * May. 2013 - May. 2015: &nbsp; Military Service, Republic of Korea Air Fore (11th Fighter Wing)
     * *Electic power operation in Air Force Tower* <br/> <br/>
 
 
-* Jan. 2008 - Dec. 2008: &nbsp; Awatapu College
-    * *Palmerston North, New Zealand*
+* Jan. 2008 - Dec. 2008: &nbsp; Awatapu College, *Palmerston North, New Zealand*
     * *NCEA Level 1 Certified* <br/> <br/>
-
  
-* Mar. 2000 - Dec. 2000: &nbsp; Glen Ackers Elementary School
-    * *Indiana State, USA* <br/> <br/>
+* Mar. 2000 - Dec. 2000: &nbsp; Glen Ackers Elementary School, *Indiana State, USA* <br/> <br/>
     
 ## Features
 * Minimal, you can focus on your content
