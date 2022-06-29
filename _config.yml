@@ -39,12 +39,12 @@ disqus_shortname:   hunie_son
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
-github-url:         https://github.com/hunie-son
+#facebook:           username
+github-url:         hunie-son
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           https://www.linkedin.com/in/seonghun-son-665924152/
+linkedin:           seonghun-son-665924152
 #xing:              username
-instagram:          https://www.instagram.com/hunie_son/
+instagram:          hunie_son
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
