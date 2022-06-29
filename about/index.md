@@ -17,7 +17,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 # Education
 * Jan. 2021 - **Present**: &nbsp; Ph.D Student in Electrical and Computer Engineering, **Iowa State University**
-    * *<a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a>, &nbsp; Advisor : Prof. Berk Gulmezoglu* <br/> <br/>
+    * *<a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a>, Advisor : Prof. Berk Gulmezoglu* <br/> <br/>
 
 
 * Mar. 2012 - Feb. &nbsp; 2019: &nbsp; B.S in Information and Communication Engineering, **Yeungnam University**
