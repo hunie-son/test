@@ -25,20 +25,20 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 # Experiences
 * Jan. &nbsp; 2018 - Feb. &nbsp; 2018: &nbsp; &nbsp; Outbound Pilot Program, **Yeungnam University**
-    * *Visiting Google, Facebook, Instagram, UCB, Standford, UCLA and UCI* <br/>
+    * *Visiting Google, Facebook, Instagram, UCB, Standford, UCLA and UCI* <br/> <br/>
 
 
 * May. &nbsp; 2013 - May. &nbsp; 2015: &nbsp; &nbsp; Military Service, **Republic of Korea Air Fore** (11th Fighter Wing)
-    * *Electic power operation in Air Force Tower* <br/>
+    * *Electic power operation in Air Force Tower* <br/ ><br/>
 
 
 * Jan. &nbsp; 2008 - Dec. &nbsp; 2008: &nbsp; &nbsp; Awatapu College
     * *Palmerston North, New Zealand*
-    * *NCEA Level 1 Certified* <br/>
+    * *NCEA Level 1 Certified* <br/> <br/>
 
  
 * Mar. &nbsp; 2000 - Dec. &nbsp; 2000: &nbsp; &nbsp; Glen Ackers Elementary School
-    * *Indiana State, USA* <br/>
+    * *Indiana State, USA* <br/> <br/>
     
 ## Features
 * Minimal, you can focus on your content
