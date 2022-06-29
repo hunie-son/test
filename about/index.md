@@ -24,11 +24,11 @@ He is currently working on Microarchitectural attack detection using Deep Learni
     * *Awarded Academic Scholarships for three out of eight semesters* <br/> <br/>
 
 # Experiences
-* Jan. 2018 - Feb. 2018: &nbsp; Outbound Pilot Program, **Yeungnam University**
+* Jan. 2018 - Feb. 2018: &nbsp; Outbound Pilot Program, Yeungnam University
     * *Visiting Google, Facebook, Instagram, UCB, Standford, UCLA and UCI* <br/> <br/>
 
 
-* May. 2013 - May. 2015: &nbsp; Military Service, **Republic of Korea Air Fore** (11th Fighter Wing)
+* May. 2013 - May. 2015: &nbsp; Military Service, Republic of Korea Air Fore (11th Fighter Wing)
     * *Electic power operation in Air Force Tower* <br/> <br/>
 
 
