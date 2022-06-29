@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About Seonghun Son
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [about, Jekyll, theme, seonghun]
+date: 2021-06-29
 comments: false
 ---
     
-<center><a href="http://hunie-son.github.io/hunie"><b>Moon</b></a> Postice, Creative and Sociable Researcher.</center>
+<center><a href="http://hunie-son.github.io"><b>Seonghun</b></a> Postive, Creative and Sociable Researcher.</center>
 
 ## Features
 * Minimal, you can focus on your content
