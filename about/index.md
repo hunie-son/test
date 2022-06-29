@@ -17,7 +17,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 # Education
 * Jan. &nbsp; 2021 - **Present**: &nbsp; &nbsp; Ph.D Student in Electrical and Computer Engineering, **Iowa State University**
-    * <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. <br/>
+    * <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. <br/> <br/>
 
 
 * Mar. &nbsp; 2012 - Feb. &nbsp; 2019: &nbsp; &nbsp; B.S in Information and Communication Engineering, **Yeungnam University**
@@ -29,7 +29,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 
 * May. &nbsp; 2013 - May. &nbsp; 2015: &nbsp; &nbsp; Military Service, **Republic of Korea Air Fore** (11th Fighter Wing)
-    * *Electic power operation in Air Force Tower* <br/ ><br/>
+    * *Electic power operation in Air Force Tower* <br/ > <br/>
 
 
 * Jan. &nbsp; 2008 - Dec. &nbsp; 2008: &nbsp; &nbsp; Awatapu College
