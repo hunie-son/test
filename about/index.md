@@ -35,8 +35,29 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 * Jan. 2016 - Feb. 2019: &nbsp; Data Communcation Lab, Yeungnam University
     * *Undergraduate research student (Advisor : Prof. Jin-Ghoo, Choi)* <br/> <br/>
- 
 
+
+# Project
+[7] **Seonghun Son**, Yong Guan. “Recovering Obfuscation: Forensic technique of Obfuscated Android Applications”,
+ *Iowa State University CPRE 536: Digital and Network Forensic Course Project* <br/> <br/>
+
+[6] **Seonghun Son**, Hongyang Gao. “Facial Emotions Classification to improve the welfare of virtual learning”, 
+ *Iowa State University COMS 573:Machine Learning Course Term Project* <br/> <br/>
+ 
+[5] **Seonghun Son**, Jin-Ghoo Choi. “Controlling Light by Gesture Detection”, 
+*Enhanced Capstone Design Project with Utosys* <br/> <br/>
+
+[4] **Seonghun Son**, Hyojin Lim, Jin-Ghoo Choi. “Night Collision Avoidance system by detection of forwarding vehicles in drive lane”, 
+*Undergraduate Thesis* <br/> <br/>
+
+[3] Sunghyun Lee, Soonho Shin, **Seonghun Son**, Hoyoul Jung. “Vehicle crash avoidance systems based on rear lamp detection”, 
+*International Exploration of Engineering Education and CDP, January 2017, Hong Kong (Presenter)* <br/> <br/>
+
+[2] Muhammad Shafiq, Jin-Choo Choi, **Seonghun Son**, Heejung Yu. “CR-MEGA: Mutually Exclusive Guaranteed Access Control for Cognitive Radio Networks”,
+*Future Technologies Conference (FTC), pp. 89-96, November 2017, Vancouver, Canada.* <br/> <br/>
+
+[1] Sunghyun Lee, Soonho Shin, **Seonghun Son**, Hoyoul Jung. "Vehicle crash avoidance systems based on rear lamp detection",
+*2016 International Workshop on Emerging ICT, Sendai, Japan, October 2016 (Presenter - http://www.spcom.ecei.tohoku.ac.jp/JCK-WS2016/cfp.html)* <br/> <br/>
 
 # Extra Experience
 * Jan. 2018 - Feb. 2018: &nbsp; Outbound Pilot Program, Yeungnam University
