@@ -75,7 +75,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 # Personal Stuff
 ![Running](./img/Running.JPG)
-<img src="./img/Running.JPG", height="100x", width="100px">
+<img src="https://github.com/hunie-son/hunie-son.github.io/blob/master/about/img/Running.JPG", height="100x", width="100px">
 ![Tennis](./img/Tennis.JPG)
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
     
