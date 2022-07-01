@@ -74,9 +74,12 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 
 # Personal Stuff
+
+{% capture images %}
     https://github.com/hunie-son/hunie-son.github.io/blob/master/about/img/Running.JPG
     https://github.com/hunie-son/hunie-son.github.io/blob/master/about/img/Tennis.JPG
- {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
     
 ## Features
 * Minimal, you can focus on your content
