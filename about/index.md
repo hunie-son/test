@@ -74,8 +74,9 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 
 # Personal Stuff
+![Running](./img/Running.JPG)
 <img src="./img/Running.JPG", height="100x", width="100px">
-![poster](./img/Tennis.JPG)
+![Tennis](./img/Tennis.JPG)
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
     
 ## Features
