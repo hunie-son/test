@@ -77,7 +77,11 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 ![Running](./img/Running.JPG)
 ![Tennis](./img/Tennis.JPG)
 {% include gallery images=images caption="Running and Tennis" cols=2 %}
-    
+
+
+\\<!-- 
+
+
 ## Features
 * Minimal, you can focus on your content
 * Responsive
@@ -107,3 +111,6 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+
+-->
