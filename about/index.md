@@ -71,6 +71,20 @@ He is currently working on Microarchitectural attack detection using Deep Learni
     * *NCEA Level 1 Certified* <br/> <br/>
  
 * Mar. 2000 - Dec. 2000: &nbsp; Glen Ackers Elementary School, *Indiana State, USA* <br/> <br/>
+
+
+# Personal Stuff
+* Jan. 2018 - Feb. 2018: &nbsp; Outbound Pilot Program, Yeungnam University
+    * *Visiting Google, Facebook, Instagram, UCB, Standford, UCLA and UCI* <br/> <br/>
+
+* May. 2013 - May. 2015: &nbsp; Military Service, Republic of Korea Air Fore (11th Fighter Wing)
+    * *Electic power operation in Air Force Tower* <br/> <br/>
+
+
+* Jan. 2008 - Dec. 2008: &nbsp; Awatapu College, *Palmerston North, New Zealand*
+    * *NCEA Level 1 Certified* <br/> <br/>
+ 
+* Mar. 2000 - Dec. 2000: &nbsp; Glen Ackers Elementary School, *Indiana State, USA* <br/> <br/>
     
 ## Features
 * Minimal, you can focus on your content
