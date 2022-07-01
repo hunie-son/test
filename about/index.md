@@ -74,17 +74,11 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 
 # Personal Stuff
-* Jan. 2018 - Feb. 2018: &nbsp; Outbound Pilot Program, Yeungnam University
-    * *Visiting Google, Facebook, Instagram, UCB, Standford, UCLA and UCI* <br/> <br/>
-
-* May. 2013 - May. 2015: &nbsp; Military Service, Republic of Korea Air Fore (11th Fighter Wing)
-    * *Electic power operation in Air Force Tower* <br/> <br/>
-
-
-* Jan. 2008 - Dec. 2008: &nbsp; Awatapu College, *Palmerston North, New Zealand*
-    * *NCEA Level 1 Certified* <br/> <br/>
- 
-* Mar. 2000 - Dec. 2000: &nbsp; Glen Ackers Elementary School, *Indiana State, USA* <br/> <br/>
+{% capture images %}
+    'assets/img/Running.jpg'
+    'assets/img/Tennis.jpg'
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
     
 ## Features
 * Minimal, you can focus on your content
@@ -101,8 +95,8 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    'assets/img/Running.jpg'
+    'assets/img/Tennis.jpg'
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
