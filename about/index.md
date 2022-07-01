@@ -80,9 +80,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 {% include gallery images=images caption="Running and Tennis" cols=2 %}
 
 
-\\<!-- 
-
-
+<!-- 
 ## Features
 * Minimal, you can focus on your content
 * Responsive
