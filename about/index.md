@@ -57,7 +57,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 *Future Technologies Conference (FTC), pp. 89-96, November 2017, Vancouver, Canada.* <br/>
 
 [1] Sunghyun Lee, Soonho Shin, **Seonghun Son**, Hoyoul Jung. "Vehicle crash avoidance systems based on rear lamp detection",
-*2016 International Workshop on Emerging ICT, Sendai, Japan, October 2016 (Presenter - http://www.spcom.ecei.tohoku.ac.jp/JCK-WS2016/cfp.html)* <br/> 
+*<a href="https://www.ece.iastate.edu/bgulmez](http://www.spcom.ecei.tohoku.ac.jp/JCK-WS2016/cfp.html"><b>2016 International Workshop on Emerging, ICT,</b></a> Sendai, Japan, October 2016 (Presenter)* <br/> 
 
 # Extra Experience
 * Jan. 2018 - Feb. 2018: &nbsp; Outbound Pilot Program, Yeungnam University
