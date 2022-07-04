@@ -42,7 +42,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
  *Iowa State University CPRE 536: Digital and Network Forensic Course Project* <br/>
 
 [6] **Seonghun Son**, Hongyang Gao. “Facial Emotions Classification to improve the welfare of virtual learning”, <br/> 
- *Iowa State University COMS 573:Machine Learning Course Term Project* <br/>
+ *Iowa State University COMS 573:Machine Learning Course Project* <br/>
  
 [5] **Seonghun Son**, Jin-Ghoo Choi. “Controlling Light by Gesture Detection”,
 *Enhanced Capstone Design Project with Utosys* <br/>
