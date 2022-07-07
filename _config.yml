@@ -37,14 +37,14 @@ disqus_shortname:   hunie_son
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+#email:              
 #facebook:           username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           seonghun-son-665924152
 #xing:              username
 instagram:          hunie_son
 github-url:         hunie-son
-twitter:            Hunie_son
+#twitter:            Hunie_son
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
