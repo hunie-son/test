@@ -74,7 +74,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 
 # Volunteer
-* May. 2021 - Present: &nbsp; Cymath, Iowa State University
+* May. 2021 - **Present**: &nbsp; Cymath, Iowa State University
     * *Mathematics volunteering program led by Dr. Namrata Vaswani and Christa Jackson* <br/> <br/>
 
 * Jul. 2017 - Aug. 2017: &nbsp; Team Leader, World Friend ICT Volunteer, *Can Tho University Technology, Vietnam*
@@ -84,7 +84,8 @@ He is currently working on Microarchitectural attack detection using Deep Learni
     * *Teaching Science class (Korean Student Aid Foundation)* <br/> <br/>
 
 * Jul. 2016 - Jul. 2016: &nbsp; Educational Service, *Chengdo Area, South Korea*
-    * <a href="http://www.ksmnews.co.kr/default/index_view_page.php?idx=146832&part_idx=299#09HT"><b>Psychological counseling program for student</b></a>* <br/> <br/>
+    * *Psychological counseling program for student* <br/> <br/>
+   
 
 * Jan. 2016 - Jan. 2016: &nbsp; Educational Service, *Hamchang Middle School, South Korea*
     * *Teaching Science / IT (Korean Foundation for the Advancement of Science & Creativity)* <br/> <br/>
