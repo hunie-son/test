@@ -101,7 +101,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 
 # People around the world
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=243359&w=200&t=tt&d=Dtm1QYMJOp5s1mt_6sZnPK6UQJ0zmGbLDqvu6SoixR4&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=061a49&w=250&t=n&d=Dtm1QYMJOp5s1mt_6sZnPK6UQJ0zmGbLDqvu6SoixR4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 
 <!-- 
