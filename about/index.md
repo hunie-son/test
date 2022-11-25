@@ -79,6 +79,8 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 ![Tennis](./img/Tennis.JPG)
 {% include gallery images=images caption="Running and Tennis" cols=2 %}
 
+
+# People around the world
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Dtm1QYMJOp5s1mt_6sZnPK6UQJ0zmGbLDqvu6SoixR4&cl=ffffff&w=a"></script>
 
 
