@@ -84,7 +84,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
     * *Teaching Science class (Korean Student Aid Foundation)* <br/> <br/>
 
 * Jul. 2016 - Jul. 2016: &nbsp; Educational Service, *Chengdo Area, South Korea*
-    * * <a href="http://www.ksmnews.co.kr/default/index_view_page.php?idx=146832&part_idx=299#09HT"><b>Psychological counseling program for student</b></a>* <br/> <br/>
+    * <a href="http://www.ksmnews.co.kr/default/index_view_page.php?idx=146832&part_idx=299#09HT"><b>Psychological counseling program for student</b></a>* <br/> <br/>
 
 * Jan. 2016 - Jan. 2016: &nbsp; Educational Service, *Hamchang Middle School, South Korea*
     * *Teaching Science / IT (Korean Foundation for the Advancement of Science & Creativity)* <br/> <br/>
