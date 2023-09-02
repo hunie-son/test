@@ -9,9 +9,9 @@ comments: false
 <center>ɪғ ʏᴏᴜ ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜ ʟᴏᴠᴇ, ʏᴏᴜ'ʟʟ ɴᴇᴠᴇʀ ᴡᴏʀᴋ ᴀ ᴅᴀʏ ɪɴ ʏᴏᴜʀ ʟɪғᴇ.</center>
 
 # About Me
-**Seonghun Son** is currently a second-year Ph.D. student in Computer Engineering at Iowa State University <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. 
-He completed his B.S degree in Information and Communication Engineering from Yeungnam University, South Korea. 
-Before joining Iowa State, he worked as an Assistant Manager at ICT Infrastructure Strategy and Planning Team in National Information Society Agency (NIA) in South Korea. 
+**Seonghun Son** is currently a third-year Ph.D. student in Computer Engineering at Iowa State University <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. 
+He completed his B.S. in Information and Communication Engineering from Yeungnam University, South Korea. 
+Before joining Iowa State, he worked as an Assistant Manager at the ICT Infrastructure Strategy and Planning Team at the National Information Society Agency (NIA) in South Korea. 
 His research interest is in Computer Architecture Security and Deep Learning. 
 He is currently working on Microarchitectural attack detection using Deep Learning techniques, especially mitigations of side-channel attacks. 
 
@@ -25,7 +25,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 
 # Work Experience
-* Sep. 2020 - Dec. 2020: &nbsp; National Information Soceity Agency, South Korea
+* Sep. 2020 - Dec. 2020: &nbsp; National Information Society Agency, South Korea
     * *ICT Infrastructure Strategy and Planning Team* <br/> <br/>
 
 
@@ -33,15 +33,15 @@ He is currently working on Microarchitectural attack detection using Deep Learni
     * *Functional Safety Team, Electronics R&D Center* <br/> <br/>
 
 
-* Jan. 2016 - Feb. 2019: &nbsp; Data Communcation Lab, Yeungnam University
-    * *Undergraduate research student (Advisor : Prof. Jin-Ghoo, Choi)* <br/> <br/>
+* Jan. 2016 - Feb. 2019: &nbsp; Data Communication Lab, Yeungnam University
+    * *Undergraduate research student (Advisor: Prof. Jin-Ghoo, Choi)* <br/> <br/>
 
 
 # Project
 [7] **Seonghun Son**, Yong Guan. “Recovering Obfuscation: Forensic technique of Obfuscated Android Applications”, <br/>
  *Iowa State University CPRE 536: Digital and Network Forensic Course Project* <br/>
 
-[6] **Seonghun Son**, Hongyang Gao. “Facial Emotions Classification to improve the welfare of virtual learning”, <br/> 
+[6] **Seonghun Son**, Hongyang Gao. “Facial Emotions Classification to improve the Welfare of virtual learning”, <br/> 
  *Iowa State University COMS 573:Machine Learning Course Project* <br/>
  
 [5] **Seonghun Son**, Jin-Ghoo Choi. “Controlling Light by Gesture Detection”,
@@ -74,8 +74,8 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 
 # Volunteer
-* May. 2021 - **Present**: &nbsp; Cymath, Iowa State University
-    * *Mathematics volunteering program led by Dr. Namrata Vaswani and Christa Jackson* <br/> <br/>
+* May. 2021 - **Present**: &nbsp; CyMath 1.0, CyMath 2.0, CyMath 3.0 Iowa State University
+    * *Mathematics volunteering program led by Dr. Namrata Vaswani* <br/> <br/>
 
 * Jul. 2017 - Aug. 2017: &nbsp; Team Leader, World Friend ICT Volunteer, *Can Tho University Technology, Vietnam*
     * *Teaching Programming Language and Korean Culture* <br/> <br/>
