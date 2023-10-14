@@ -14,8 +14,10 @@ tag:
 - Web Security
 comments: true
 ---
+![Tennis](./img/Tennis.JPG)
 
-![DefWeb Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![DefWeb Homepage](../assets/img/DefWeb/Figure_scenario_new.png)
+{% include gallery images=images caption="Threat model for the attacker and the defense mechanisms in offline and online phases." cols=2 %}
     
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
      
