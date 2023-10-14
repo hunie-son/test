@@ -14,7 +14,6 @@ tag:
 - Web Security
 comments: true
 ---
-![Tennis](./img/Tennis.JPG)
 
 ![DefWeb Homepage](../assets/img/DefWeb/Figure_scenario_new.png)
 {% include gallery images=images caption="Threat model for the attacker and the defense mechanisms in offline and online phases." cols=2 %}
