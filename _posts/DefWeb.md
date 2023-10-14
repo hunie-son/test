@@ -12,7 +12,7 @@ tag:
 - Generative Learning
 - Variational Autoencoder
 - Web Security
-comments: true
+comments: false
 ---
 
 ![DefWeb Homepage](../assets/img/DefWeb/Figure_scenario_new.png)
