@@ -39,7 +39,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 # Project
 [8] **Seonghun Son**, Debopriya Roy Dipta, Berk Gulmezoglu. “DefWeb: Defending User Privacy against Cache-based
-Website Fingerprinting Attacks with Intelligent Noise Injection”, *<a href="https://www.openconf.org/acsac2023/modules/request.php?module=oc_program&action=summary.php&id=244"><b>***ACSAC 2023***</b></a> (*acceptance rate* = **23.3%**) <br/> 
+Website Fingerprinting Attacks with Intelligent Noise Injection”, *<a href="https://www.openconf.org/acsac2023/modules/request.php?module=oc_program&action=summary.php&id=244"><b>**ACSAC 2023**</b></a> (*acceptance rate* = **23.3%**) <br/> 
 
 [7] **Seonghun Son**, Yong Guan. “Recovering Obfuscation: Forensic technique of Obfuscated Android Applications”, <br/>
  *Iowa State University CPRE 536: Digital and Network Forensic Course Project* <br/>
