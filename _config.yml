@@ -30,12 +30,13 @@ disqus_shortname:   hunie_son
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
+  scholar:        R0J5dRUAAAAJ&hl=en
 #bing-verify:
 #email:              
 #facebook:           username
