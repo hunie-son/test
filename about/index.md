@@ -38,7 +38,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 
 
 # Project
-[8] **Seonghun Son**, Debopriya Roy Dipta, Seyedmohammad Kashani, Grace Heron, Berk Gulmezoglu, Brad Kline. “Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security”, *<a href="https://caecommunity.org/initiative/insure"><b>**INSuRE program**</b></a> <br/> 
+[8] **Seonghun Son**, Debopriya Roy Dipta, Seyedmohammad Kashani, Grace Heron, Berk Gulmezoglu, Brad Kline. “Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security”, <a href="https://caecommunity.org/initiative/insure"><b>**INSuRE program**</b></a> <br/> 
 
 [8] **Seonghun Son**, Debopriya Roy Dipta, Berk Gulmezoglu. “DefWeb: Defending User Privacy against Cache-based
 Website Fingerprinting Attacks with Intelligent Noise Injection”, *<a href="https://dl.acm.org/doi/abs/10.1145/3627106.3627191"><b>**ACSAC 2023**</b></a> (*acceptance rate* = **23.3%**) <br/> 
@@ -62,7 +62,7 @@ Website Fingerprinting Attacks with Intelligent Noise Injection”, *<a href="ht
 *Future Technologies Conference (FTC), pp. 89-96, November 2017, Vancouver, Canada.* <br/>
 
 [1] Sunghyun Lee, Soonho Shin, **Seonghun Son**, Hoyoul Jung. "Vehicle crash avoidance systems based on rear lamp detection",
-*<a href="http://www.spcom.ecei.tohoku.ac.jp/JCK-WS2016/cfp.html"><b>2016 International Workshop on Emerging, ICT,</b></a> Sendai, Japan, October 2016 (Presenter)* <br/> 
+<a href="http://www.spcom.ecei.tohoku.ac.jp/JCK-WS2016/cfp.html"><b>2016 International Workshop on Emerging, ICT,</b></a> Sendai, Japan, October 2016 (Presenter)* <br/> 
 
 # Extra Experience
 * Jan. 2018 - Feb. 2018: &nbsp; Outbound Pilot Program, Yeungnam University
@@ -79,7 +79,7 @@ Website Fingerprinting Attacks with Intelligent Noise Injection”, *<a href="ht
 
 
 # Volunteer
-* May. 2021 - **Present**: &nbsp; *<a href="https://cymath.iastate.edu/"><b>**CyMath**</b></a> Iowa State University
+* May. 2021 - **Present**: &nbsp; <a href="https://cymath.iastate.edu/"><b>**CyMath**</b></a> Iowa State University
     * *Mathematics volunteering program led by Dr. Namrata Vaswani* <br/> <br/>
 
 * Jul. 2017 - Aug. 2017: &nbsp; Team Leader, World Friend ICT Volunteer, *Can Tho University Technology, Vietnam*
