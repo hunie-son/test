@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Controlling Light by Gesture Detection"
-date:   2018-6-31
+date:   2017-6-31
 excerpt: "Enhanced Capstone Design Project with Utosys, South Korea"
 project: true
 tag:
