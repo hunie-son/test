@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Night collision avoidance system by detection of forward vehicles in drive lane and head-up display notification"
+title:  "Night Collision Avoidance System by detection of Forward Vehicles in drive lane and Head-up Display notification"
 date:   2018-6-31
-excerpt: "Undergraduate Thesis (Korean Version)."
+excerpt: "Undergraduate Thesis (Korean version)."
 project: true
 tag:
 - ADAS 
-- Autinomous Vehicle 
+- Autonomous Vehicle 
 - Computer Vision
-- Image provcessing
+- Image processing
 - Machine Learning
 comments: false
 ---
