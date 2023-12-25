@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Night collision avoidance system by detection of forward vehicles in drive lane"
+title:  "Night collision avoidance system by detection of forward vehicles in drive lane and head-up display notification"
 date:   2018-6-31
-excerpt: "Night collision avoidance system by detection of forward vehicles in drive lane and head-up display notification."
+excerpt: "Undergraduate Thesis (Korean Version)."
 project: true
 tag:
 - ADAS 
