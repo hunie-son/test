@@ -22,6 +22,7 @@ We efficiently detected the taillights of front vehicles in nighttime environmen
 To calculate the distance between vehicles detected based on taillights, we estimated the vehicle width based on each taillight and computed the inter-vehicle distance. To effectively communicate the risk of a collision to the driver, a Head-up Display (HUD) was created, indicating danger levels using three levels of sound (Forward Collision Warning - FCW).
 
 To further reduce the error rate in vehicle detection, we added tracking using Mean-Shift Tracking or Kalman Filter to track future video frames of vehicles. Additionally, for improved performance in forward vehicle detection, we plan to explore the use of a more accurate classifier continuously. Our future research will focus on exploring effective methods to enhance performance continuously.
+
 <!--  
 ## Installation
 * Full version [paper](https://dl.acm.org/doi/abs/10.1145/3627106.3627191)
