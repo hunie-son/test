@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Two Sum Leet Code"
+date:   2024-01-18
+excerpt: "Coding prep."
+
+tag:
+- jekyll 
+- moon
+- blog
+- about
+- theme
+comments: false
+---
+
+# Intuition
+<!-- Describe your first thoughts on how to solve this problem. -->
+Two sum question using complemntary 
+# Approach
+<!-- Describe your approach to solving the problem. -->
+![image.png](https://assets.leetcode.com/users/images/759a904e-f753-40ba-b290-ac87fcbccb72_1705616740.6009943.png)
+
+# Complexity
+- Time complexity: O(N)
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+- Space complexity: O(N)
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
+# Code
+```
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        seen = {}
+
+        i =0
+
+        while i < len(nums):
+            num = nums[i]
+            comp = target - num
+            if comp in seen:
+                return [i, seen[comp]]
+            seen[num] = i
+            i += 1
+```
+
