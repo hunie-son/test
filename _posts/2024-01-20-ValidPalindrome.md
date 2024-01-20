@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Valid Palindrome LeetCode 125"
+date:   2024-01-20
+excerpt: "Coding prep."
+
+tag:
+- LeetCode
+- NeetCode
+comments: false
+---
+
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
@@ -31,7 +43,7 @@ s consists only of printable ASCII characters.
 
 # Approach
 <!-- Describe your approach to solving the problem. -->
-1. Using functions (filtering w/ isalum(), coverting lower() and check reverse)
+1. Using functions (filtering w/ isalum(), converting lower() and check reverse)
 
 2. Two pointers
 
@@ -83,7 +95,7 @@ class Solution(object):
             while left_ptr < right_ptr and not self.isAlNum(s[right_ptr]):
                 right_ptr -= 1  
                 
-            #Check the this first wheater it is smame or not 
+            #Check this first wheater it is same or not 
             if s[left_ptr].lower() != s[right_ptr].lower():
                 return False
             
