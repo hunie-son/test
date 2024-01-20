@@ -37,6 +37,8 @@ Example 1:
 Input: word = "internationalization", abbr = "i12iz4n"
 Output: true
 Explanation: The word "internationalization" can be abbreviated as "i12iz4n" ("i nternational iz atio n").
+
+
 Example 2:
 
 Input: word = "apple", abbr = "a2e"
@@ -48,6 +50,7 @@ Constraints:
 
 1 <= word.length <= 20
 word consists of only lowercase English letters.
+
 1 <= abbr.length <= 10
 abbr consists of lowercase English letters and digits.
 All the integers in abbr will fit in a 32-bit integer.
