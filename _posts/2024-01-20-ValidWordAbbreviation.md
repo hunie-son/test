@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Valid Word abbreviation LeetCode 408"
+date:   2024-01-20
+excerpt: "Coding prep."
+
+tag:
+- LeetCode
+- CrackingFAANG
+comments: false
+---
+
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 A string can be abbreviated by replacing any number of non-adjacent, non-empty substrings with their lengths. The lengths should not have leading zeros.
@@ -42,8 +54,13 @@ All the integers in abbr will fit in a 32-bit integer.
 
 # Approach
 <!-- Describe your approach to solving the problem. -->
+
+![image.png](https://assets.leetcode.com/users/images/6dd8b9a5-72d7-48ed-8606-e938f643c6f9_1705785753.3775294.png)
+
+ref: https://www.youtube.com/watch?v=Sut-F029biM&ab_channel=CrackingFAANG
+
 Two pointers solution 
-To track progress through word and abbriviation
+To track progress through word and abbreviation
 
 # Complexity
 - Time complexity:
@@ -52,7 +69,7 @@ O(N), in worst case
 
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
-O(1), No data structrue but storing variables.
+O(1), No data structure but storing variables.
 
 # Code
 ```
@@ -67,18 +84,18 @@ class Solution(object):
         word_ptr = abbr_ptr = 0
 
         while word_ptr < len(word) and abbr_ptr < len(abbr):
-            #Since time of calling fucntion makes Time contraints
+            #Since the time of calling function makes Time constraints
             #if abbr[abbr_ptr].isdigit():
-                # If its leading zeros
+                # If it is leading zeros
             
             if abbr[abbr_ptr] == "0":
                 return False
             step = 0
                 
-            # It could have two or more digits of abbriviation
+            # It could have two or more digits of abbreviation
             #while abbr_ptr < len (abbr) and abbr[abbr_ptr].isdigit():
             
-            # For time contraints, we are not using idigit() 
+            # For time constraints, we are not using idigit() 
             while abbr_ptr< len (abbr) and abbr[abbr_ptr] in '0123456789':
                 step = step * 10 + int(abbr[abbr_ptr])
                 #abbriviation pointer plus one
@@ -95,7 +112,7 @@ class Solution(object):
             
                 word_ptr += 1
                 abbr_ptr += 1
-        #Make sure that pointers reaches to the word length
+        #Make sure that pointers reach the word length
         return word_ptr == len(word) and abbr_ptr == len(abbr)
 
 
