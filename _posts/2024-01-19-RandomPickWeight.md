@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Random Pcik with Weight LeetCode 528"
+title:  "Random Pick with Weight LeetCode 528"
 date:   2024-01-19
 excerpt: "Coding prep."
 
