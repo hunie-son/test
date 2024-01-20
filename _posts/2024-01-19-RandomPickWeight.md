@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Random Pcik with Weight LeetCode"
+date:   2024-01-19
+excerpt: "Coding prep."
+
+tag:
+- LeetCode
+- CrackingFAANG
+comments: false
+---
+
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 You are given a 0-indexed array of positive integers w where w[i] describes the weight of the ith index.
