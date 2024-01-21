@@ -1,8 +1,19 @@
+---
+layout: post
+title:  "Valid Palindrome2 LeetCode 680"
+date:   2024-01-20
+excerpt: "Coding prep."
+
+tag:
+- LeetCode
+- NeetCode
+comments: false
+---
+
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 Given a string s, return true if the s can be palindrome after deleting at most one character from it.
 
- 
 
 Example 1:
 
@@ -26,10 +37,10 @@ s consists of lowercase English letters.
 
 # Approach
 <!-- Describe your approach to solving the problem. -->
-1. Using two pointers and check each charatcter.
-2. If its not same, we cut either right or left and check again
+1. Using two pointers and checking each charatcter.
+2. If it's not the same, we cut either right or left and check again
  
-ref : https://www.youtube.com/watch?v=JrxRYBwG6EI&ab_channel=NeetCode
+ref: https://www.youtube.com/watch?v=JrxRYBwG6EI&ab_channel=NeetCode
 # Complexity
 - Time complexity: O(2*N) = O(N)
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
