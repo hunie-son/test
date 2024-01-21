@@ -81,7 +81,7 @@ ref: https://www.youtube.com/watch?v=7x7Ydq2Wfvw&t=382s&ab_channel=CrackingFAANG
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
-```
+```python
 class Solution(object):
 
     def __init__(self, w):
