@@ -49,7 +49,7 @@ ref: https://www.youtube.com/watch?v=JrxRYBwG6EI&ab_channel=NeetCode
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
-```
+```python
 class Solution(object):
     def validPalindrome(self, s):
         """
