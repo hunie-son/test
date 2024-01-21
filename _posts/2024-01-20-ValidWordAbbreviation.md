@@ -75,7 +75,7 @@ O(N), in worst case
 O(1), No data structure but storing variables.
 
 # Code
-```
+```python
 class Solution(object):
     def validWordAbbreviation(self, word, abbr):
         """
