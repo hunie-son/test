@@ -1,6 +1,18 @@
+---
+layout: post
+title:  "Longest Increasing Path in a Matrix LeetCode 329"
+date:   2024-01-23
+excerpt: "Coding prep."
+
+tag:
+- LeetCode
+- NeetCode
+comments: false
+---
+
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
-Given an m x n integers matrix, return the length of the longest increasing path in matrix.
+Given an m x n integers matrix, return the length of the longest increasing path in the matrix.
 
 From each cell, you can either move in four directions: left, right, up, or down. You may not move diagonally or move outside the boundary (i.e., wrap-around is not allowed).
 
@@ -31,16 +43,22 @@ class Solution(object):
         """
 
         Rows, Cols = len(matrix), len(matrix[0])
+        #Creating a Map to save the Longest Increasing Path (LIP)
         HMap = {} # LIP (r,c)
 
         def dfs (r,c, preV):
+            #First filter
             if (r<0 or r==Rows or c <0 or c==Cols or matrix[r][c] <= preV):
                 return 0
-            
+
+            #Second filter, which is already done with the DFS
             if (r,c) in HMap:
                 return HMap[(r,c)]
 
+
             result = 1 # Default rank of every space
+
+            #checking every four ways
             result = max(result, 1 + dfs(r+1,c, matrix[r][c]))
             result = max(result, 1 + dfs(r-1,c, matrix[r][c]))
             result = max(result, 1 + dfs(r,c+1, matrix[r][c]))
@@ -52,6 +70,7 @@ class Solution(object):
         for r in range (Rows):
             for c in range (Cols):
                 dfs(r,c,-1)
-        
+
+        # returning the maximum value in the map
         return max(HMap.values())
 ```
