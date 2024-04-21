@@ -103,7 +103,7 @@ Website Fingerprinting Attacks with Intelligent Noise Injection”, *<a href="ht
 # Personal Stuff
 <!--  
 ![Running](./img/Running.JPG)
--->
+
  <br/>
 ![CAE](./img/CAE2024.jpg)
 {% include gallery images=images caption="CAE Symposium 2024 Presentation " cols=2 %}
@@ -111,6 +111,7 @@ Website Fingerprinting Attacks with Intelligent Noise Injection”, *<a href="ht
  <br/>
 ![ACSAC](./img/ACSAC2024.jpg)
 {% include gallery images=images caption="ACSAC 2023 Presentation " cols=2 %}
+-->
  <br/>
 ![Tennis](./img/Tennis.JPG)
 {% include gallery images=images caption="Running and Tennis" cols=2 %}
