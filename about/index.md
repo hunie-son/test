@@ -40,7 +40,7 @@ He is currently working on Microarchitectural attack detection using Deep Learni
 # Project
 * Details can be found in the <a href="https://hunie-son.github.io/projects/"><b>**Project**</b></a> section.
   
-[8] **Seonghun Son**, Debopriya Roy Dipta, Seyedmohammad Kashani, Grace Heron, Berk Gulmezoglu, Brad Kline. “Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security”, <a href="https://caecommunity.org/initiative/insure"><b>**INSuRE program**</b></a> <br/> 
+[8] **Seonghun Son**, Debopriya Roy Dipta, Seyedmohammad Kashani, Grace Heron, Berk Gulmezoglu, Brad Kline. “Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security”, <a href="https://caecommunity.org/initiative/insure"><b>**CAE Symposium, INSuRE program**</b></a> <br/> 
 
 [8] **Seonghun Son**, Debopriya Roy Dipta, Berk Gulmezoglu. “DefWeb: Defending User Privacy against Cache-based
 Website Fingerprinting Attacks with Intelligent Noise Injection”, *<a href="https://dl.acm.org/doi/abs/10.1145/3627106.3627191"><b>**ACSAC 2023**</b></a> (*acceptance rate* = **23.3%**) <br/> 
